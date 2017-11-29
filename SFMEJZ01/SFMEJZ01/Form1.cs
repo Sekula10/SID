@@ -16,5 +16,11 @@ namespace SFMEJZ01
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string msgText = "Popravek pritiska na gumb 1";
+            MessageBox.Show(msgText);
+        }
     }
 }
