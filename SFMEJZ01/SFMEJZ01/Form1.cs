@@ -19,7 +19,7 @@ namespace SFMEJZ01
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string msgText = "Popravek pritiska na gumb 1";
+            string msgText = "Popravek pritiska na gumb 10";
             MessageBox.Show(msgText);
         }
     }
